@@ -1,0 +1,5 @@
+commit b384d24977a9be52fcf7484028c51b3e6161e5ea (HEAD -> master)
+Author: mnasevich <mindlov@yandex.by>
+Date:   Mon Feb 17 19:22:55 2020 +0300
+
+    add .gitignore
