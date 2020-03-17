@@ -1,0 +1,39 @@
+ѕараметры:
+i: ингредиенты с разделител€ми зап€тыми
+q: обычный поисковый запрос
+p: страница
+формат = xml: если вместо этого требуетс€ xml json
+
+¬ходные параметры:
+i: mushrooms
+q: chicken
+p: 2
+
+ѕолученные данные:
+
+{"title":"Recipe Puppy","version":0.1,"href":"http:\/\/www.recipepuppy.com\/","results":[{"title":"Chicken Portobello Lasagna","href":"http:\/\/
+find.myrecipes.com\/recipes\/recipefinder.dyn?action=displayRecipe&recipe_id=1725553","ingredients":"spinach, butter, chicken, mushrooms, 
+cream of mushroom soup, sour cream, black pepper, salt, cheddar cheese, lasagna noodle, parmesan cheese","thumbnail":"http:\/\/
+img.recipepuppy.com\/552144.jpg"},{"title":"Asparagus Chicken","href":"http:\/\/www.recipe4living.com\/recipes\/asparagus_chicken.htm",
+"ingredients":"onions, mushrooms, vegetable oil, asparagus, chicken, seasoning","thumbnail":""},{"title":"Garlicky Grilled Chicken, 
+Portobello, and Radicchio Salad","href":"http:\/\/www.foodnetwork.com\/recipes\/tyler-florence\/
+garlicky-grilled-chicken-portobello-and-radicchio-salad-recipe\/index.html","ingredients":"olive oil, garlic, radicchio, kosher salt, 
+mushrooms, thyme, watercress","thumbnail":""},{"title":"Country Style Chicken and Vegetables","href":"http:\/\/www.bigoven.com\/
+158012-Country-Style-Chicken-and-Vegetables-recipe.html","ingredients":"garlic, rosemary, parsley, salt, black pepper, olive oil, mushrooms, 
+red potatoes, carrot, onions, chicken, chicken broth, chicken broth","thumbnail":"http:\/\/img.recipepuppy.com\/744251.jpg"},
+{"title":"Chicken-Stuffed Marinated Portobello Mushroom","href":"http:\/\/www.bigoven.com\/
+64226-Chicken-Stuffed-Marinated-Portobello-Mushroom-recipe.html","ingredients":"mushrooms, olive oil, sherry, olive oil, balsamic vinegar, 
+dijon mustard, garlic, chicken, pesto, sun dried tomato","thumbnail":""},{"title":"Chicken Fried Portobello Mushroom with Mashed Potatoes 
+and Gravy","href":"http:\/\/www.foodnetwork.com\/recipes\/the-best-of\/
+chicken-fried-portobello-mushroom-with-mashed-potatoes-and-gravy-recipe\/index.html","ingredients":"bread crumbs, butter, gravy, eggs, flour, 
+milk, mushrooms, potato, salt, thyme","thumbnail":""},{"title":"Chicken Stuffed with Prosciutto and Fontina","href":"http:\/\/
+www.foodnetwork.com\/recipes\/paula-deen\/chicken-stuffed-with-prosciutto-and-fontina-recipe\/index.html","ingredients":"arugula, chicken, 
+olive oil, prosciutto, lemon, mushrooms, rosemary, black pepper, butter, white wine","thumbnail":""},{"title":"Chicken with Red Wine and 
+Tarragon","href":"http:\/\/www.foodnetwork.com\/recipes\/rachael-ray\/chicken-with-red-wine-and-tarragon-recipe\/index.html",
+"ingredients":"butter, carrot, kosher salt, mushrooms, olive oil, red wine, parsley, sugar, shallot, tarragon","thumbnail":""},
+{"title":"Portobello Mushrooms Stuffed W\/grilled Chicken Pesto\/sdt","href":"http:\/\/www.bigoven.com\/
+7792-Portobello-Mushrooms-Stuffed-W%2Fgrilled-Chicken-Pesto%2Fsdt-recipe.html","ingredients":"mushrooms, mushroom, olive oil, sherry, 
+chicken, olive oil, balsamic vinegar, dijon mustard, garlic, chicken, pesto, sun dried tomato","thumbnail":""},{"title":"Chicken and Goat 
+Cheese Pizza With Fresh Herbs","href":"http:\/\/find.myrecipes.com\/recipes\/recipefinder.dyn?action=displayRecipe&recipe_id=1831899",
+"ingredients":"nonstick cooking spray, pizza dough, mushrooms, kosher salt, pesto, black pepper, chicken, corn, goat cheese, basil",
+"thumbnail":""}]}

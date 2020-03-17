@@ -1,0 +1,17 @@
+Входные данные:
+https://dog.ceo/api/breed/hound/list
+
+Получили наименования всех пород из группы hound:
+
+{
+    "message": [
+        "afghan",
+        "basset",
+        "blood",
+        "english",
+        "ibizan",
+        "plott",
+        "walker"
+    ],
+    "status": "success"
+}
