@@ -1,0 +1,39 @@
+ѕараметры:
+i: ингредиенты с разделител€ми зап€тыми
+q: обычный поисковый запрос
+p: страница
+формат = xml: если вместо этого требуетс€ xml json
+
+¬ходные параметры:
+i: tomato
+q: soup
+p: 2
+
+ѕолученные данные:
+
+{"title":"Recipe Puppy","version":0.1,"href":"http:\/\/www.recipepuppy.com\/","results":[{"title":"Soup: Ojai Valley Inn Tortilla Soup",
+"href":"http:\/\/www.bigoven.com\/58952-Soup%3A-Ojai-Valley-Inn-Tortilla-Soup-recipe.html","ingredients":"tomato, onions, vegetable oil, 
+corn tortillas, garlic, chicken broth, broth, tomato paste, cilantro, cumin, chili powder, bay leaves, corn tortillas, chicken, avocado, 
+cheddar cheese, sour cream","thumbnail":"http:\/\/img.recipepuppy.com\/806794.jpg"},{"title":"Cream of Garden Tomato Soup - Pressure Cooker 
+- West","href":"http:\/\/www.recipezaar.com\/Cream-of-Garden-Tomato-Soup-Pressure-Cooker-West-186316","ingredients":"black pepper, butter, 
+chicken broth, thyme, heavy cream, salt, tomato, vegetable oil, yellow onions","thumbnail":"http:\/\/img.recipepuppy.com\/331622.jpg"},
+{"title":"Roasted Yellow Pepper Soup And Roasted Tomato Soup with Pt 1","href":"http:\/\/www.bigoven.com\/
+130960-Roasted-Yellow-Pepper-Soup-And-Roasted-Tomato-Soup-with-Pt-1-recipe.html","ingredients":"shallot, thyme, butter, yellow bell pepper, 
+chicken broth, soup, heavy cream, lemon juice, tomato, garlic, shallot, oregano, butter, chicken broth, soup, heavy cream, lemon juice, 
+serrano pepper, garlic, salt, sour cream","thumbnail":""},{"title":"Soup: Creme of Vegetable Soup - Le Cellier Re","href":"http:\/\/
+www.bigoven.com\/58950-Soup%3A-Creme-of-Vegetable-Soup---Le-Cellier-Re-recipe.html","ingredients":"chicken broth, butter, onions, potato, 
+tomato, carrot, green beans, broccoli, leek, zucchini, garlic, sugar, salt, heavy cream","thumbnail":""},{"title":"\nCabbage Soup (Diet Soup) 
+Recipe\n\n","href":"http:\/\/cookeatshare.com\/recipes\/cabbage-soup-diet-soup-96856","ingredients":"cabbage, onion soup mix, onions, black 
+pepper, green pepper, green onion, beef bouillon granules, chicken, balsamic vinegar, celery, carrot, green beans, tomato juice, tomato",
+"thumbnail":""},{"title":"\nAlbondigas Soup (Meatball Soup) Recipe\n\n","href":"http:\/\/cookeatshare.com\/recipes\/
+albondigas-soup-meatball-soup-63053","ingredients":"beef, bread, eggs, onions, garlic, sage, black pepper, salt, tomato, cilantro, lard, 
+tomato, red chilies, chilies, salt, oregano","thumbnail":""},{"title":"Oaxacan Black Bean Soup And Oxtail Soup","href":"http:\/\/
+www.cooks.com\/rec\/view\/0,1848,157175-228194,00.html","ingredients":"green onion, sherry, black beans, garlic, oxtails, tomato, onions, 
+monterey jack cheese, beef broth, salt, salad greens, tortilla, allspice, cayenne, cumin","thumbnail":""},{"title":"Gazpach Soup (Spanish 
+Salad Soup)","href":"http:\/\/www.bigoven.com\/89904-Gazpach-Soup-(Spanish-Salad-Soup)-recipe.html","ingredients":"tomato, onions, green 
+pepper, cucumber, parsley, garlic, salt, black pepper, olive oil, white wine vinegar, worcestershire sauce, water, red wine, hot sauce, 
+croutons","thumbnail":""},{"title":"Cuban Garlic Soup (Sopa De Ajo)","href":"http:\/\/www.recipezaar.com\/
+Cuban-Garlic-Soup-Sopa-De-Ajo-338866","ingredients":"bay leaf, chicken broth, eggs, french bread, garlic, olive oil, paprika, parsley, salt, 
+sherry, tomato","thumbnail":""},{"title":"Easy Hungarian Soup","href":"http:\/\/www.recipezaar.com\/Easy-Hungarian-Soup-90377",
+"ingredients":"beef broth, caraway seed, tomato, flour, paprika, beef, vegetable oil, onions, pepperoni, red wine, sauerkraut, tomato",
+"thumbnail":"http:\/\/img.recipepuppy.com\/522976.jpg"}]}

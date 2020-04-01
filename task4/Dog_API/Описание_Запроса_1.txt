@@ -1,0 +1,9 @@
+¬ходные данные:
+https://dog.ceo/api/breeds/image/random
+
+ѕолучили соответствующее сообщению случайное изображение собаки:
+
+{
+    "message": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_3709.jpg",
+    "status": "success"
+}
