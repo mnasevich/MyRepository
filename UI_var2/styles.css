@@ -1,0 +1,132 @@
+html {
+    background: #15c1e8;
+   overflow-x:  hidden;
+}
+
+
+.header{
+    background: #8e3ede;
+   
+}
+.header__tag{
+    position: absolute;
+    right: 500px;
+    top:30px;
+    color:aqua;
+}
+
+.header__exit{
+     
+     position: absolute;
+     right: 100px;
+     top:30px;
+     color:aqua;
+}
+
+.header__icon{
+    margin:10px;
+}
+
+.user__name{
+    position: absolute;
+    top: 180px;
+    left: 70px;
+}
+.my__icon{
+     position: absolute;
+     top: 70px;
+     left: 80px;
+}
+
+.search{
+    position:absolute;
+    top:242px;
+    width: 300px;
+    height:300px;
+    background: #0aa4c7;
+}
+.searching{
+    text-align: center;
+}
+.search__Button{
+    text-align: center;
+}
+
+
+.lenta{
+    margin: 0px 0px 0px 350px;
+}
+
+
+.post1{
+    margin: left; /* Отступы вокруг элемента */
+    background: #fd0; /* Цвет фона */
+    width: 800px;
+    height:150px;
+    border: 3px solid #666;
+   
+}
+
+.name1{
+ 
+    margin: 0px 0px 0px -10px;
+  
+}
+
+
+.data1{
+     display: inline;
+     margin: 100px 0px 0px 650px;
+}
+.Information1{
+  
+     position: relative;
+     top: 50px;
+     left:250px;
+      
+}
+.hashtag1{
+  position: relative;
+    left:650px;
+}
+.like__icon{
+    position: relative;
+    left:120px;
+    bottom:19px;
+     
+}
+.delete__post{
+   position: relative;
+    bottom:210px;
+    left:780px;
+  
+}
+.user1{
+    margin: 0px 0px 0px 20px;
+}
+
+.share__icon{
+   position: relative;
+    left:220px;
+    bottom:51px;
+}
+
+.edit__post{
+    position:absolute;
+    left:1170px;
+    bottom:315px;
+}
+
+.new__10__posts{
+   margin: 10px 0px 0px 740px;
+}
+
+.network{
+    position: absolute;
+    bottom:10px;
+    right: 40px;
+}
+
+
+
+
